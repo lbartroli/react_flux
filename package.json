@@ -1,0 +1,32 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-open": "^2.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "browserify": "^14.1.0",
+    "event": "^1.0.0",
+    "flux": "2.0.3",
+    "gulp-concat": "^2.6.1",
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.4",
+    "object-assign": "^4.1.1",
+    "react": "0.13.3",
+    "react-router": "^0.13.3",
+    "reactify": "^1.1.1",
+    "toastr": "^2.1.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
